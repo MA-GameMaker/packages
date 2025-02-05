@@ -1,0 +1,13 @@
+{
+    "name": "YYRunnerInterface",
+    "directories": [
+        "Vendors/YYRunnerInterface",
+        "Vendors/YYRunnerInterface/Source",
+        "Vendors/YYRunnerInterface/Include"
+    ],
+    "files": {
+        "Vendors/YYRunnerInterface/premake5.lua": "https://raw.githubusercontent.com/MA-GameMaker/packages/refs/heads/main/yyrunnerinterface/premake5.lua",
+        "Vendors/YYRunnerInterface/Source/YYRunnerInterface.cpp": "https://raw.githubusercontent.com/MA-GameMaker/packages/refs/heads/main/yyrunnerinterface/code/YYRunnerInterface.cpp",
+        "Vendors/YYRunnerInterface/Include/YYRunnerInterface.h": "https://raw.githubusercontent.com/MA-GameMaker/packages/refs/heads/main/yyrunnerinterface/code/YYRunnerInterface.h"
+    }
+}

@@ -4,6 +4,8 @@
 // This file is an original work developed by Opera.
 //
 
+#define __YYDEFINE_EXTENSION_FUNCTIONS__
+
 #ifndef __YY__RUNNER_INTERFACE_H_
 #define __YY__RUNNER_INTERFACE_H_
 

@@ -3,8 +3,6 @@ project "Lua547"
 
     kind "StaticLib"
 
-    location "Vendors/Lua547"
-
     files {
         "%{prj.location}/Source/*.c",
         "%{prj.location}/Include/*.h",

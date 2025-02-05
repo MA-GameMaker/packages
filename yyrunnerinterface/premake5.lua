@@ -12,3 +12,7 @@ project "YYRunnerInterface"
     includedirs {
         "%{prj.location}/Include"
     }
+
+    defines {
+        "__YYDEFINE_EXTENSION_FUNCTIONS__"
+    }
